@@ -1,0 +1,21 @@
+[
+  {"name": "김세현", "phoneNumber": "01042387086"},
+  {"name": "123", "phoneNumber": "01042387086"},
+  {"name": "김아리", "phoneNumber": "123"},
+  {"name": "가나다", "phoneNumber": "123123123"},
+  {"name": "나가다", "phoneNumber": "123-1234-1234"},
+  {"name": "서울", "phoneNumber": "02-138-8289"},
+  {"name": "021388789", "phoneNumber": "02-138-8789"},
+  {"name": "ㄱ마주ㅜㅇ메주에ㅐ무자우미ㅏ주이ㅏㅁ주아무ㅏㅣㅈ우ㅏㅣㅈ무이ㅏㅜㅁㅈ지ㅏ우마ㅣ", "phoneNumber": "010-1234-1234"},
+  {"name": "경상북도", "phoneNumber": "054-1231-234"},
+  {"name": "서울3", "phoneNumber": "02-1234-1234"},
+  {"name": "서울4", "phoneNumber": "02-123-1234"},
+  {"name": "경상북도", "phoneNumber": "054-1231-234"},
+  {"name": "경북", "phoneNumber": "054-1231-234"},
+  {"name": "제주", "phoneNumber": "064-1231-234"},
+  {"name": "TXT추가", "phoneNumber": "010123-1223431-234ㄴ234"},
+  {"name": "제주2", "phoneNumber": "064-1231-234"},
+  {"name": "SSS", "phoneNumber": "031-577-7086"},
+  {"name": "AAA", "phoneNumber": "031-577-7086"},
+  {"name": "SSS", "phoneNumber": "032-577-7086"}
+]
