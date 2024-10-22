@@ -14,7 +14,15 @@ int main() {
         std::cout << "2. 회원가입" << std::endl;
         std::cout << "3. 종료" << std::endl;
         std::cout << "선택: ";
+
         std::cin >> choice;
+
+
+        if (std::cin.fail()) { // 문자가 들어올경우 실행(정수형입력에 실패한 경우)
+            std::cin.clear();
+            std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // 메뉴에서 문자 입력 무시
+            continue;
+        }
 
         switch (choice) {
         case 1:

@@ -6,5 +6,6 @@ void addCoinsToUser();
 void addVideo();
 void delVideo();
 void addadmin();
+void printAllUsers();
 
 #endif
