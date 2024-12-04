@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\과제 프로젝트\3차\3차\FlashMemory.h(14,39): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+  3차.vcxproj -> D:\과제 프로젝트\3차\x64\Debug\3차.exe
